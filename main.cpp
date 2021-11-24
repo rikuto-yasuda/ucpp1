@@ -1,10 +1,8 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
-	cout << "18+63="<<(18+63) <<"です。\n";
-
-	
+int main()
+{
+	cout << "18+63=" << (18 + 63) << "です。\n";
 }
-
